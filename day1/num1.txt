@@ -1,0 +1,2 @@
+What happens when an assignment is performed without using let or const keywords in
+strict mode?
